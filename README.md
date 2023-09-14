@@ -1,21 +1,11 @@
+<p>
+  ![image](https://github.com/aemx18/aemx18/assets/69670768/3fe9342d-eb11-40bf-a00a-2f63d093e219)
+</p>
+
+
 
 <h1 align="center" > Hi there 👋 , i'm Aniq Aiman Rusli </h1>
 
-
-<!--
-**aemx18/aemx18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
                 
 
