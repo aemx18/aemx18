@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/aemx18/aemx18/assets/69670768/46695bb7-baa2-4a38-a396-08c471c5f000) 
+                      ![image](https://github.com/aemx18/aemx18/assets/69670768/46695bb7-baa2-4a38-a396-08c471c5f000) 
 
 Biography
 - 🔭 I’m currently working as System Analyst at Amtis Solution SDN BHD
