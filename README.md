@@ -1,6 +1,6 @@
-<p>
-  ![image](https://github.com/aemx18/aemx18/assets/69670768/3fe9342d-eb11-40bf-a00a-2f63d093e219)
-</p>
+
+
+![image](https://github.com/aemx18/aemx18/assets/69670768/3fe9342d-eb11-40bf-a00a-2f63d093e219)
 
 
 
