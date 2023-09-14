@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://github.com/aemx18/aemx18/assets/69670768/46695bb7-baa2-4a38-a396-08c471c5f000)
+
