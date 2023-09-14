@@ -1,6 +1,6 @@
-<p align="center">
-<h1> Hi there 👋 , i'm Aniq Aiman Rusli </h1>
-</p>
+
+<h1 align="center" > Hi there 👋 , i'm Aniq Aiman Rusli </h1>
+
 
 <!--
 **aemx18/aemx18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
