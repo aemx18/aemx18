@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/aemx18/aemx18/assets/69670768/1dbd0131-92c0-4f3f-91b4-f97949fd846a" alt="Material Bread logo">
+    <img src="https://github.com/aemx18/aemx18/assets/69670768/1dbd0131-92c0-4f3f-91b4-f97949fd846a" alt="Material Bread logo">
 </p>
 
 
@@ -9,9 +9,7 @@
 
 <h1 align="center" > Hi there 👋 , i'm Aniq Aiman Rusli </h1>
 
-< --  ![image](https://github.com/aemx18/aemx18/assets/69670768/1dbd0131-92c0-4f3f-91b4-f97949fd846a)
--->
-    
+
 
 **Biography**
 - 🔭 I’m currently working as System Analyst at Amtis Solution SDN BHD
