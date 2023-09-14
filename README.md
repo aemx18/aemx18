@@ -1,6 +1,6 @@
-
-
-![image](https://github.com/aemx18/aemx18/assets/69670768/3fe9342d-eb11-40bf-a00a-2f63d093e219)
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://github.com/aemx18/aemx18/assets/69670768/3fe9342d-eb11-40bf-a00a-2f63d093e219)" alt="Material Bread logo">
+</p>
 
 
 
