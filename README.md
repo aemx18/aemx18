@@ -8,6 +8,7 @@
 
 
 <h1 align="center" > Hi there 👋 , i'm Aniq Aiman Rusli </h1>
+<h2 align="center" > System Analyst 💻 </h2>
 
 
 
