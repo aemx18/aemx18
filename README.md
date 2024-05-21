@@ -8,12 +8,12 @@
 
 
 <h1 align="center" > Hi there 👋 , i'm Aniq Aiman Rusli </h1>
-<h2 align="center" > System Analyst 💻 </h2>
+<h2 align="center" > Business Analyst 💻 </h2>
 
 
 
 **Biography**
-- 🔭 I’m currently working as System Analyst at Amtis Solution SDN BHD
+- 🔭 I’m currently working as Business at Permoadalan Nasional Berhad
 - 🌱 I’m currently learning Laravel Framework for freetime
 - 🎓 Diploma In Computer Science Holder
 - 🎓 Bachelor of Information Systems (Hons) Information Systems Engineering
@@ -25,3 +25,4 @@
 - Software Test Result (STR)
 - Test Plan
 - Technical Document
+- Business Requirement Specification
